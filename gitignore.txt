@@ -1,0 +1,14 @@
+#########
+#Exclude all
+#########
+*
+!.gitignore
+!img
+!img/*.png
+!*.dat
+!*.pdf
+!*.docx
+!*.r
+!*.py
+!*.csv
+!*.md
